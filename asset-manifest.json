@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iago-project/static/css/main.daee96e4.css",
+    "main.js": "/iago-project/static/js/main.d0200986.js",
+    "static/js/488.aa5194ab.chunk.js": "/iago-project/static/js/488.aa5194ab.chunk.js",
+    "index.html": "/iago-project/index.html",
+    "main.daee96e4.css.map": "/iago-project/static/css/main.daee96e4.css.map",
+    "main.d0200986.js.map": "/iago-project/static/js/main.d0200986.js.map",
+    "488.aa5194ab.chunk.js.map": "/iago-project/static/js/488.aa5194ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daee96e4.css",
+    "static/js/main.d0200986.js"
+  ]
+}
